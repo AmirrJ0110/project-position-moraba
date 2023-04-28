@@ -1,0 +1,29 @@
+/* start morabba */
+.morabba {
+  width: 100px;
+  height: 100px;
+
+  margin-top: 150px;
+  border: 2px solid black;
+  position: relative;
+}
+/* end morabba */
+/* start khat1 */
+.khat1 {
+  width: 100px;
+  height: 1px;
+  position: absolute;
+  border-top: 2px solid red;
+  bottom: 46px;
+}
+/* end khat1 */
+/* start khat2 */
+
+.khat2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-right: 2px solid rgb(35, 202, 99);
+  right: 50px;
+}
+/* end khat 2 */
